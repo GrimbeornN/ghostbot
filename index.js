@@ -1,0 +1,1 @@
+// index.js placeholder - le contenu réel doit être inséré ici depuis le canvas.

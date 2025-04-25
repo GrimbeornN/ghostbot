@@ -1,0 +1,3 @@
+// GhostBot UI en React (projet frontend) + intégration backend (Node.js via API REST)
+"use client";
+...
